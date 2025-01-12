@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+json
+ipython-sql
+sqlalchemy.
+psycopg2 
